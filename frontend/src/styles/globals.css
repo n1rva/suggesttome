@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .section {
+  position: relative;
+  padding: 5px 20px;
+  margin: 0px 20px;
+} */
+
+.marker {
+  /* left: 0;
+  position: absolute;
+  height: 4px;
+  width: 0;
+  background: #000;
+  bottom: -8px;
+  border-radius: 4px; */
+  transition: 0.3s;
+  /* z-index: -1; */
+}
